@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "412557764616",
+    "firebase_url": "https://frisk-1c028.firebaseio.com",
+    "project_id": "frisk-1c028",
+    "storage_bucket": "frisk-1c028.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412557764616:android:ddc726af79f80793",
+        "android_client_info": {
+          "package_name": "com.example.game.frisk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412557764616-76ecobg98j4k0fj2ekivhsh3aaq3km5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.game.frisk",
+            "certificate_hash": "a3381ef6ed7d5c339c5fcc6a9531a52ed5b4666b"
+          }
+        },
+        {
+          "client_id": "412557764616-230uqo311opu4j61f77jtfo332uvkm9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgkp-AFfNhFhNbtESMT9ltZf-as962agc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412557764616-230uqo311opu4j61f77jtfo332uvkm9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
